@@ -1,6 +1,6 @@
 import boto3
-aws_access_key_id = 'AKIAIBXNGS7E52LGCMWA'
-aws_secret_access_key = 'iBdQ6bsb1kk7RhvuWvHECDiPOMHLs3lbbmMVEqiH'
+aws_access_key_id = 'Your Key'
+aws_secret_access_key = 'Your Secret Key'
 
 
 def checkinstance(aws_access_key_id,aws_secret_access_key):
